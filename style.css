@@ -1,0 +1,22 @@
+.body_background{
+    background-image:url("bg1.jpg");
+    background-position:center;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+body{
+    text-align: center;
+}
+button{
+    margin:10px;
+}
+#mycanvas{
+   border-width: 10px; 
+   border-color: crimson;
+   border-style:ridge;
+   background-color:white;
+}
